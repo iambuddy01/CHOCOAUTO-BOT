@@ -1,3 +1,1 @@
-echo "3.11" > .python-version
-git add .python-version
-git commit -m "Specify Python version 3.11"
+3.11
